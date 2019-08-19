@@ -1,0 +1,32 @@
+h1 {
+  color: CadetBlue;
+}
+
+h2 {
+	color: CadetBlue;
+}
+
+.textYellow {
+	color: Gold;
+}
+
+.link {
+	color: Red;
+}
+
+.listItem {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 350;
+}
+
+body {
+	background-color: DarkSlateGray;
+}
+
+p {
+	color: Lime;
+}
+
+
+
