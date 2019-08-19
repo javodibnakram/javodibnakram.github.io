@@ -28,5 +28,17 @@ p {
 	color: Lime;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-color: red;
+}
+
+p::first-letter {
+	font-size: 150%;
+}
 
 
